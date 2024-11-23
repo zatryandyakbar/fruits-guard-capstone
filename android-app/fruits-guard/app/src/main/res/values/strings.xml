@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FruitsGuard</string>
+    <string name="fruits_image" />
+    <string name="google_logo" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_nav">Home</string>
+    <string name="detect_nav">Detect</string>
+    <string name="favorite_nav">Favorite</string>
+    <string name="fabButton">Fab Button\n</string>
+    <string name="icon_profile">Icon profile</string>
+    <string name="header_title">Header Title</string>
+    <string name="camera_placeholder">Camera Placeholder</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="analyze">Analyze</string>
+</resources>
